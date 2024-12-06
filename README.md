@@ -1,12 +1,18 @@
 # Fire Detection Using Convolutional Neural Networks and Image Processing
 ## Overview
-This project leverages advanced AI techniques, including Convolutional Neural Networks (CNNs), transfer learning, and Large Language Models (LLMs), to develop an efficient and accurate fire detection system. The model aims to enhance safety systems by providing real-time, precise fire detection using image-based data.
+This project leverages advanced AI techniques, including Convolutional Neural Networks (CNNs), transfer learning, and Large Language Models (LLMs), to develop an efficient and accurate fire detection system. The model aims to enhance safety systems by providing real-time, precise fire detection using image-based data.  
+
+
 
 ## Features
 CNN-based Fire Detection: Achieved 96.88% validation accuracy and an F1 score of 0.9688.  
-Comparison with LLMs:
-Llama2-7B and GPT-4 Mini achieved 100% accuracy in fire detection.
-Applications: Real-world integration in smart systems for residential, commercial, and forest fire monitoring.
+
+
+Comparison with LLMs:  
+Llama2-7B and GPT-4 Mini achieved 100% accuracy in fire detection.  
+Applications: Real-world integration in smart systems for residential, commercial, and forest fire monitoring.  
+
+
 
 ## Dataset
 Size: 2,000 images (1,500 fire, 500 non-fire).
