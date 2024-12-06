@@ -13,6 +13,7 @@ Size: 2,000 images (1,500 fire, 500 non-fire).
 Sources: Public datasets, Google Photos, Roboflow Universe.
 Diversity: Varied backdrops, lighting conditions, and fire intensity levels.
 
+
 ## Methodology
 ## Data Preprocessing:
 Resized images to 256x256 pixels.
