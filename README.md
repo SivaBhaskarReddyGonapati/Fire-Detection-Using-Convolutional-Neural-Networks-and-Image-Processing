@@ -47,5 +47,5 @@ Improve computational efficiency of LLMs for deployment on edge devices.
 Explore advanced architectures (e.g., transformers) for further accuracy improvements.
 
 ## References
-Roboflow Universe Dataset
+Roboflow Universe Dataset.
 Research papers on CNN and fire detection (see References in the repository).
